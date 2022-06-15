@@ -31,5 +31,6 @@ Alpaca works with many ways to trade! We pride ourselves in enabling many partne
 - **Wealth-Lab** ([How it works](https://www.wealth-lab.com/)): Create and backtest trading strategies with or without code using Wealth-Lab’s drag and drop web builder. Use their desktop platform for additional technical and fundamental analysis features.
 - **Passiv** ([How it works](https://alpaca.markets/learn/porting-passiv-to-alpaca-a-devs-perspective/)): Connect your brokerage account to build a passive investment strategy and manage your portfolio without the need for spreadsheets and manual calculations.
 - **Alexa** ([How it works](https://alpaca.markets/learn/amazon-alexa-execute-trades/)): Teach your Alexa a skill that will allow you to place trades through your Amazon device.
+- **Trademetria** ([How it works](https://trademetria.com/)): Monitor, track and improve your trading performance. Make better trading decisions by taking into account statistical evidence of what works.
 
 **Your app could be here**: [Register now](https://app.alpaca.markets/brokerage/apps/edit/create)
